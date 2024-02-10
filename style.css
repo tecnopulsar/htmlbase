@@ -1,0 +1,20 @@
+body {
+  background-color: skyblue;
+}
+h1 {
+  text-align: center;
+  color: red !important;
+}
+.rojo {
+  color: red;
+}
+.azul {
+  color: blue;
+}
+.verde {
+  color: green;
+}
+
+li {
+  font-weight: 700;
+}
